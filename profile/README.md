@@ -38,7 +38,11 @@ We publish **3 high-depth technical masterclasses every week** in native 4K UHD:
 
 | ⚛️ 03. Autonomous SRE Agents (arXiv 2026) | 🦀 04. Sovereign Vaultwarden in Rust |
 | :---: | :---: |
-| [![Autonomous SRE Brief](https://img.youtube.com/vi/yNRBWfI_qRw/hqdefault.jpg)](https://youtu.be/yNRBWfI_qRw)<br>▶️ **[Watch on YouTube (08:54)](https://youtu.be/yNRBWfI_qRw)** • [📦 Code Blueprint](https://github.com/infrablueprint-ops/blueprints/tree/main/04-autonomous-sre-ebpf) | [![Vaultwarden Spotlight](https://img.youtube.com/vi/xVttPj_b7nI/hqdefault.jpg)](https://youtu.be/xVttPj_b7nI)<br>▶️ **[Watch on YouTube (09:05)](https://youtu.be/xVttPj_b7nI)** • [📦 Code Blueprint](https://github.com/infrablueprint-ops/blueprints/tree/main/03-vaultwarden-sovereign) |
+| [![Autonomous SRE Brief](https://img.youtube.com/vi/yNRBWfI_qRw/hqdefault.jpg)](https://youtu.be/yNRBWfI_qRw)<br>▶️ **[Watch on YouTube (08:54)](https://youtu.be/yNRBWfI_qRw)** • [📦 Code Blueprint](https://github.com/infrablueprint-ops/blueprints/tree/main/04-autonomous-sre-ebpf) | [![Vaultwarden Spotlight](https://img.youtube.com/vi/dVSgt6lcXlw/hqdefault.jpg)](https://youtu.be/dVSgt6lcXlw)<br>▶️ **[Watch on YouTube (09:05)](https://youtu.be/dVSgt6lcXlw)** • [📦 Code Blueprint](https://github.com/infrablueprint-ops/blueprints/tree/main/03-vaultwarden-sovereign) |
+
+| 🏗️ 05. Production Terraform Foundations | 🧠 06. JEV — Typed AI Decisions (NEW) |
+| :---: | :---: |
+| [![Terraform Masterclass](https://img.youtube.com/vi/s9Piakl4s-g/hqdefault.jpg)](https://youtu.be/s9Piakl4s-g)<br>▶️ **[Watch on YouTube](https://youtu.be/s9Piakl4s-g)** • [📦 Code Blueprint](https://github.com/infrablueprint-ops/blueprints) | [![JEV Blueprint](https://img.youtube.com/vi/P1FfigH033Q/hqdefault.jpg)](https://youtu.be/P1FfigH033Q)<br>▶️ **[Watch on YouTube (10:11)](https://youtu.be/P1FfigH033Q)** • [📦 Code Blueprint](https://github.com/infrablueprint-ops/blueprints) |
 
 ---
 
