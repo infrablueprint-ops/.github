@@ -44,6 +44,10 @@ We publish **3 high-depth technical masterclasses every week** in native 4K UHD:
 | :---: | :---: |
 | [![Terraform Masterclass](https://img.youtube.com/vi/s9Piakl4s-g/hqdefault.jpg)](https://youtu.be/s9Piakl4s-g)<br>▶️ **[Watch on YouTube](https://youtu.be/s9Piakl4s-g)** • [📦 Code Blueprint](https://github.com/infrablueprint-ops/blueprints) | [![JEV Blueprint](https://img.youtube.com/vi/P1FfigH033Q/hqdefault.jpg)](https://youtu.be/P1FfigH033Q)<br>▶️ **[Watch on YouTube (10:11)](https://youtu.be/P1FfigH033Q)** • [📦 Code Blueprint](https://github.com/infrablueprint-ops/blueprints) |
 
+| 🧾 07. OmniJev OneJev — Local Invoice Categorization (NEW) |
+| :---: |
+| [![OmniJev OneJev](https://img.youtube.com/vi/EZT_4F5IiOw/hqdefault.jpg)](https://youtu.be/EZT_4F5IiOw)<br>▶️ **[Watch on YouTube (08:45)](https://youtu.be/EZT_4F5IiOw)** • [📦 Code Blueprint](https://github.com/infrablueprint-ops/blueprints/tree/main/14-onejev-invoice-triage) |
+
 ---
 
 ## 📦 Production Code Repository
