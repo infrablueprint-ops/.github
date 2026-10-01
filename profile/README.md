@@ -46,7 +46,7 @@ We publish **3 high-depth technical masterclasses every week** in native 4K UHD:
 
 | 🧾 07. OmniJev OneJev — Local Invoice Categorization (NEW) |
 | :---: |
-| [![OmniJev OneJev](https://img.youtube.com/vi/EZT_4F5IiOw/hqdefault.jpg)](https://youtu.be/EZT_4F5IiOw)<br>▶️ **[Watch on YouTube (08:45)](https://youtu.be/EZT_4F5IiOw)** • [📦 Code Blueprint](https://github.com/infrablueprint-ops/blueprints/tree/main/14-onejev-invoice-triage) |
+| [![OmniJev OneJev](https://img.youtube.com/vi/EZT_4F5IiOw/hqdefault.jpg)](https://youtu.be/EZT_4F5IiOw)<br>▶️ **[Watch on YouTube (08:45)](https://youtu.be/EZT_4F5IiOw)** • [📱 Short](https://youtu.be/oM1gAXkBdAc) • [📦 Code Blueprint](https://github.com/infrablueprint-ops/blueprints/tree/main/14-onejev-invoice-triage) |
 
 ---
 
