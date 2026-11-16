@@ -60,10 +60,10 @@ Series: ⚛️ arXiv Research Briefs (Tuesday) • 🏗️ DevOps Blueprints (Th
 | :--- | :--- | :---: |
 | 2026-11-07 | [Docker Disk Full at 3 AM? Logs, Prune and Backups That Restore](https://youtu.be/gA57Crw36ac) | [▶️](https://youtu.be/_LPYL7H2aOo) |
 | 2026-11-08 | [RUSTFS / S3 Explained - We Wiped 2 of 4 Disks (Tested 1.0.0)](https://youtu.be/K7dxVI5F__Q) |  |
-| 2026-11-10 | [The Most Accurate Model Ignored the Emails That Mattered](https://youtu.be/tjln3w-qufo) *(scheduled)* | [▶️](https://youtu.be/exbf1wDovR0) |
-| 2026-11-12 | [One HTTP Request Can Own Your PHP Server. Check Yours Now](https://youtu.be/NVOg2ARDo7I) *(scheduled)* | [▶️](https://youtu.be/VDzJnoa-9wc) |
-| 2026-11-14 | [Docker Compose in Production: 5 Mistakes That Cause Outages](https://youtu.be/3U5UKQb4W1U) *(scheduled)* | [▶️](https://youtu.be/TITmTI7CbMw) |
-| 2026-11-15 | [I Redesigned a Website 5 Times. Scrapling Survived 3.](https://youtu.be/VTdJZbE78BA) *(scheduled)* | [▶️](https://youtu.be/bpVEbXlSArI) |
+| 2026-11-10 | [The Most Accurate Model Ignored the Emails That Mattered](https://youtu.be/tjln3w-qufo) | [▶️](https://youtu.be/exbf1wDovR0) |
+| 2026-11-12 | [One HTTP Request Can Own Your PHP Server. Check Yours Now](https://youtu.be/NVOg2ARDo7I) | [▶️](https://youtu.be/VDzJnoa-9wc) |
+| 2026-11-14 | [Docker Compose in Production: 5 Mistakes That Cause Outages](https://youtu.be/3U5UKQb4W1U) | [▶️](https://youtu.be/TITmTI7CbMw) |
+| 2026-11-15 | [I Redesigned a Website 5 Times. Scrapling Survived 3.](https://youtu.be/VTdJZbE78BA) | [▶️](https://youtu.be/bpVEbXlSArI) |
 | 2026-11-17 | [Your AI Agents Keep Crashing Your Shared Server](https://youtu.be/SjDe-2iYQmY) *(scheduled)* | [▶️](https://youtu.be/t2X7sIvds0g) |
 | 2026-11-19 | [A Free AWS Emulator? I Checked Its Windows Binary Claim](https://youtu.be/TSZEfoq8oOo) *(scheduled)* | [▶️](https://youtu.be/HN6qMwtRlT0) |
 | 2026-11-21 | [Docker Container Escapes: Harden Your Host in 10 Minutes](https://youtu.be/tmVUb6pqDx8) *(scheduled)* | [▶️](https://youtu.be/JvyYP0WWfWQ) |
