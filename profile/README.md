@@ -20,7 +20,7 @@
 We publish **3 high-depth technical masterclasses every week** in native 4K UHD:
 
 ```
-        TUESDAY (18:00 CEST)              THURSDAY (18:00 CEST)              SUNDAY (15:00 CEST)
+        TUESDAY (18:00 CET)               THURSDAY (18:00 CET)               SUNDAY (15:00 CET) 
    ┌───────────────────────────┐     ┌───────────────────────────┐     ┌───────────────────────────┐
    │ ⚛️ arXiv Research Briefs   │     │ 🏗️ DevOps Masterclasses    │     │ 🐙 GitHub Repo Spotlights │
    │   (State-of-the-Art AI,   │     │   (Terraform, Kubernetes, │     │   (Deep Architectural     │
@@ -42,7 +42,7 @@ We publish **3 high-depth technical masterclasses every week** in native 4K UHD:
 
 | 🏗️ 05. Production Terraform Foundations | 🧠 06. JEV — Typed AI Decisions (NEW) |
 | :---: | :---: |
-| [![Terraform Masterclass](https://img.youtube.com/vi/s9Piakl4s-g/hqdefault.jpg)](https://youtu.be/s9Piakl4s-g)<br>▶️ **[Watch on YouTube](https://youtu.be/s9Piakl4s-g)** • [📦 Code Blueprint](https://github.com/infrablueprint-ops/blueprints) | [![JEV Blueprint](https://img.youtube.com/vi/P1FfigH033Q/hqdefault.jpg)](https://youtu.be/P1FfigH033Q)<br>▶️ **[Watch on YouTube (10:11)](https://youtu.be/P1FfigH033Q)** • [📦 Code Blueprint](https://github.com/infrablueprint-ops/blueprints) |
+| [![Terraform Masterclass](https://img.youtube.com/vi/s9Piakl4s-g/hqdefault.jpg)](https://youtu.be/s9Piakl4s-g)<br>▶️ **[Watch on YouTube](https://youtu.be/s9Piakl4s-g)** | [![JEV Blueprint](https://img.youtube.com/vi/P1FfigH033Q/hqdefault.jpg)](https://youtu.be/P1FfigH033Q)<br>▶️ **[Watch on YouTube (10:11)](https://youtu.be/P1FfigH033Q)** |
 
 | 🧾 07. OmniJev OneJev — Local Invoice Categorization (NEW) |
 | :---: |
@@ -62,37 +62,43 @@ Series: ⚛️ arXiv Research Briefs (Tuesday) • 🏗️ DevOps Blueprints (Th
 | 2026-11-08 | [RUSTFS / S3 Explained - We Wiped 2 of 4 Disks (Tested 1.0.0)](https://youtu.be/K7dxVI5F__Q) |  |
 | 2026-11-10 | [The Most Accurate Model Ignored the Emails That Mattered](https://youtu.be/tjln3w-qufo) | [▶️](https://youtu.be/exbf1wDovR0) |
 | 2026-11-12 | [One HTTP Request Can Own Your PHP Server. Check Yours Now](https://youtu.be/NVOg2ARDo7I) | [▶️](https://youtu.be/VDzJnoa-9wc) |
+| 2026-11-13 | [Why Microsoft 365 Couldn't Restart for 25 Hours](https://youtu.be/OEQdHHXmRmU) | [▶️](https://youtu.be/S7wAtN3Slx4) |
 | 2026-11-14 | [Docker Compose in Production: 5 Mistakes That Cause Outages](https://youtu.be/3U5UKQb4W1U) | [▶️](https://youtu.be/TITmTI7CbMw) |
 | 2026-11-15 | [I Redesigned a Website 5 Times. Scrapling Survived 3.](https://youtu.be/VTdJZbE78BA) | [▶️](https://youtu.be/bpVEbXlSArI) |
 | 2026-11-16 | [This AI Agent Skill Passed the Check. It Runs curl \| bash](https://youtu.be/TQjgicWE2Ag) | [▶️](https://youtu.be/EsQ8psctBaA) |
-| 2026-11-17 | [Your AI Agents Keep Crashing Your Shared Server](https://youtu.be/SjDe-2iYQmY) *(scheduled)* | [▶️](https://youtu.be/t2X7sIvds0g) |
-| 2026-11-19 | [A Free AWS Emulator? I Checked Its Windows Binary Claim](https://youtu.be/TSZEfoq8oOo) *(scheduled)* | [▶️](https://youtu.be/HN6qMwtRlT0) |
-| 2026-11-21 | [Docker Container Escapes: Harden Your Host in 10 Minutes](https://youtu.be/tmVUb6pqDx8) *(scheduled)* | [▶️](https://youtu.be/JvyYP0WWfWQ) |
-| 2026-11-22 | [Cut AI Agent Tokens 97%? I Checked What It Deletes](https://youtu.be/Imwy4UOpWxk) *(scheduled)* | [▶️](https://youtu.be/Ih3ZqxBm-qI) |
-| 2026-11-24 | [Alibaba Profiles Live AI Servers Without Restarting Them](https://youtu.be/D7aiGFVMMEA) *(scheduled)* | [▶️](https://youtu.be/knYw8W5yo90) |
-| 2026-11-26 | [Your Kubernetes Autoscaling Is Too Slow for Black Friday](https://youtu.be/jyr6BunBJF0) *(scheduled)* | [▶️](https://youtu.be/pjq74CW6uIw) |
-| 2026-11-28 | [Trust Your Docker Images: Digests, SBOMs and Signatures](https://youtu.be/4HmMqBhpmqs) *(scheduled)* | [▶️](https://youtu.be/k9Wm1mpt7F8) |
-| 2026-11-29 | [Coolify's Installer Wants Root. Here's What It Does.](https://youtu.be/bjVR4hOAv8s) *(scheduled)* | [▶️](https://youtu.be/OsdZ8G_YcPc) |
-| 2026-12-01 | [Can a Second AI Pick the Safest Command Before It Runs?](https://youtu.be/lFIa7BZvOhE) *(scheduled)* | [▶️](https://youtu.be/sxDVFNjnyns) |
-| 2026-12-03 | [84 Malicious npm Versions in 6 Minutes. No Token Was Stolen](https://youtu.be/SjzF_IYhOJs) *(scheduled)* | [▶️](https://youtu.be/8VJi49SRQpI) |
-| 2026-12-05 | [Docker Container Crashed? The 5-Step Runbook](https://youtu.be/-SbF9vwemm0) *(scheduled)* | [▶️](https://youtu.be/E4scLLhchHE) |
-| 2026-12-06 | [I Fed 5,000 Files to an AI Code Reviewer. It Read 9.](https://youtu.be/NG9cRvBpUGM) *(scheduled)* | [▶️](https://youtu.be/8GJm1ZWquhU) |
-| 2026-12-08 | [Flide: 9.5x Faster AI Decisions, But Only on Small Models](https://youtu.be/WHBsES0IUPk) *(scheduled)* | [▶️](https://youtu.be/BgKrHaV3xCM) |
-| 2026-12-10 | [Ingress NGINX Is Retired: Your Cluster Still Runs, Unpatched](https://youtu.be/Q5bdbQCMsRQ) *(scheduled)* | [▶️](https://youtu.be/l9L_SX0Qc_s) |
-| 2026-12-12 | [Docker Builds in CI: Fast Caches Without Leaking Secrets](https://youtu.be/fqcbKrjai5o) *(scheduled)* | [▶️](https://youtu.be/qp2PehmCytE) |
-| 2026-12-13 | [My AI Agent Clicks the Web With 88 Tokens, Not 1,051](https://youtu.be/EwCeOeDdop4) *(scheduled)* | [▶️](https://youtu.be/j4fa7-fZ_kc) |
-| 2026-12-15 | [This Robot AI Ignores 85% of Its Main Camera. 96% Success.](https://youtu.be/9UFpkq-R2xw) *(scheduled)* | [▶️](https://youtu.be/1tYI8c969h0) |
-| 2026-12-17 | [Your Code Freeze Won't Stop Config Outages. Do This Instead](https://youtu.be/mhc37RbzCLU) *(scheduled)* | [▶️](https://youtu.be/-uM1cfTSN1s) |
-| 2026-12-19 | [When Docker Is the Wrong Tool: systemd, Podman and Incus](https://youtu.be/45i66tA_K7g) *(scheduled)* | [▶️](https://youtu.be/Qjqh3lsMNvI) |
-| 2026-12-20 | [This AI News Filter Judges Articles on 1,000 Characters](https://youtu.be/g5zbG3-axkE) *(scheduled)* | [▶️](https://youtu.be/2yIYusUCt7E) |
-| 2026-12-22 | [Don't Let the AI Solve the Puzzle. Let It Translate Instead](https://youtu.be/gxqjaS5XQO8) *(scheduled)* | [▶️](https://youtu.be/ZLqupn_TpzE) |
-| 2026-12-24 | [Christmas Eve On-Call: 6 Read-Only Checks Before You Log Off](https://youtu.be/-taDY72CpPw) *(scheduled)* | [▶️](https://youtu.be/8SmbY1trzNU) |
-| 2026-12-27 | [Christmas Homelab: What a Mini PC Really Draws at Idle](https://youtu.be/yWf_49pcAJA) *(scheduled)* | [▶️](https://youtu.be/tY7UBjxq1lE) |
-| 2026-12-29 | [You Can Dial an AI's Personality. The Dials Drag Each Other](https://youtu.be/pyiev1CGzSc) *(scheduled)* | [▶️](https://youtu.be/SCmtO_hggaE) |
-| 2026-12-31 | [What We Claimed in 2026, and What We Never Ran](https://youtu.be/i3A0k7MrwNU) *(scheduled)* | [▶️](https://youtu.be/wPHYtQ2a2Oo) |
-| 2027-01-03 | [2027 Cloud Forecast: What the Sources Prove and What They Don't](https://youtu.be/IK4gXu1jwMM) *(scheduled)* | [▶️](https://youtu.be/qypypMJzru8) |
+| 2026-11-17 | [Your AI Agents Keep Crashing Your Shared Server](https://youtu.be/SjDe-2iYQmY) | [▶️](https://youtu.be/t2X7sIvds0g) |
+| 2026-11-19 | [A Free AWS Emulator? I Checked Its Windows Binary Claim](https://youtu.be/TSZEfoq8oOo) | [▶️](https://youtu.be/HN6qMwtRlT0) |
+| 2026-11-21 | [Docker Container Escapes: Harden Your Host in 10 Minutes](https://youtu.be/tmVUb6pqDx8) | [▶️](https://youtu.be/JvyYP0WWfWQ) |
+| 2026-11-22 | [Cut AI Agent Tokens 97%? I Checked What It Deletes](https://youtu.be/Imwy4UOpWxk) | [▶️](https://youtu.be/Ih3ZqxBm-qI) |
+| 2026-11-23 | [llama.cpp 1.0 Is Here. Its New FP8 Cache Crashed on My GPU](https://youtu.be/dZFtmvodO7k) | [▶️](https://youtu.be/7Gk9GYIkXWI) |
+| 2026-11-24 | [Alibaba Profiles Live AI Servers Without Restarting Them](https://youtu.be/D7aiGFVMMEA) | [▶️](https://youtu.be/knYw8W5yo90) |
+| 2026-11-24 | [1,000x Smaller Than an LLM. It Still Catches Log Failures](https://youtu.be/OONH1RtJ3_4) | [▶️](https://youtu.be/2x9ZUM3DFSw) |
+| 2026-11-25 | [Your AI Agent Can't See Your Key. It Can Still Spend It](https://youtu.be/SVq3i9gTbsQ) | [▶️](https://youtu.be/e-bSpk6ebR4) |
+| 2026-11-26 | [Your Uptime Streak Is a Thanksgiving Turkey](https://youtu.be/AwVU7GFaha8) | [▶️](https://youtu.be/0fbaoTHa0BY) |
+| 2026-11-27 | [Your Kubernetes Autoscaling Is Too Slow for Black Friday](https://youtu.be/jyr6BunBJF0) | [▶️](https://youtu.be/pjq74CW6uIw) |
+| 2026-11-28 | [Trust Your Docker Images: Digests, SBOMs and Signatures](https://youtu.be/4HmMqBhpmqs) | [▶️](https://youtu.be/k9Wm1mpt7F8) |
+| 2026-11-29 | [Coolify's Installer Wants Root. Here's What It Does.](https://youtu.be/bjVR4hOAv8s) | [▶️](https://youtu.be/OsdZ8G_YcPc) |
+| 2026-12-01 | [Can a Second AI Pick the Safest Command Before It Runs?](https://youtu.be/lFIa7BZvOhE) | [▶️](https://youtu.be/sxDVFNjnyns) |
+| 2026-12-03 | [84 Malicious npm Versions in 6 Minutes. No Token Was Stolen](https://youtu.be/SjzF_IYhOJs) | [▶️](https://youtu.be/8VJi49SRQpI) |
+| 2026-12-05 | [Docker Container Crashed? The 5-Step Runbook](https://youtu.be/-SbF9vwemm0) | [▶️](https://youtu.be/E4scLLhchHE) |
+| 2026-12-06 | [I Fed 5,000 Files to an AI Code Reviewer. It Read 9.](https://youtu.be/NG9cRvBpUGM) | [▶️](https://youtu.be/8GJm1ZWquhU) |
+| 2026-12-08 | [Flide: 9.5x Faster AI Decisions, But Only on Small Models](https://youtu.be/WHBsES0IUPk) | [▶️](https://youtu.be/BgKrHaV3xCM) |
+| 2026-12-10 | [Ingress NGINX Is Retired: Your Cluster Still Runs, Unpatched](https://youtu.be/Q5bdbQCMsRQ) | [▶️](https://youtu.be/l9L_SX0Qc_s) |
+| 2026-12-12 | [Docker Builds in CI: Fast Caches Without Leaking Secrets](https://youtu.be/fqcbKrjai5o) | [▶️](https://youtu.be/qp2PehmCytE) |
+| 2026-12-13 | [My AI Agent Clicks the Web With 88 Tokens, Not 1,051](https://youtu.be/EwCeOeDdop4) | [▶️](https://youtu.be/j4fa7-fZ_kc) |
+| 2026-12-15 | [This Robot AI Ignores 85% of Its Main Camera. 96% Success.](https://youtu.be/9UFpkq-R2xw) | [▶️](https://youtu.be/1tYI8c969h0) |
+| 2026-12-17 | [Your Code Freeze Won't Stop Config Outages. Do This Instead](https://youtu.be/mhc37RbzCLU) | [▶️](https://youtu.be/-uM1cfTSN1s) |
+| 2026-12-19 | [When Docker Is the Wrong Tool: systemd, Podman and Incus](https://youtu.be/45i66tA_K7g) | [▶️](https://youtu.be/Qjqh3lsMNvI) |
+| 2026-12-20 | [This AI News Filter Judges Articles on 1,000 Characters](https://youtu.be/g5zbG3-axkE) | [▶️](https://youtu.be/2yIYusUCt7E) |
+| 2026-12-22 | [Don't Let the AI Solve the Puzzle. Let It Translate Instead](https://youtu.be/gxqjaS5XQO8) | [▶️](https://youtu.be/ZLqupn_TpzE) |
+| 2026-12-24 | [Christmas Eve On-Call: 6 Read-Only Checks Before You Log Off](https://youtu.be/-taDY72CpPw) | [▶️](https://youtu.be/8SmbY1trzNU) |
+| 2026-12-25 | [Byte Plays Scrooge: A Christmas Carol for Sysadmins](https://youtu.be/6rWztcd-7vc) | [▶️](https://youtu.be/dqrPZ6RUpBc) |
+| 2026-12-27 | [Christmas Homelab: What a Mini PC Really Draws at Idle](https://youtu.be/yWf_49pcAJA) | [▶️](https://youtu.be/tY7UBjxq1lE) |
+| 2026-12-29 | [You Can Dial an AI's Personality. The Dials Drag Each Other](https://youtu.be/pyiev1CGzSc) | [▶️](https://youtu.be/SCmtO_hggaE) |
+| 2026-12-31 | [What We Claimed in 2026, and What We Never Ran](https://youtu.be/i3A0k7MrwNU) | [▶️](https://youtu.be/wPHYtQ2a2Oo) |
+| 2027-01-03 | [2027 Cloud Forecast: What the Sources Prove and What They Don't](https://youtu.be/IK4gXu1jwMM) | [▶️](https://youtu.be/qypypMJzru8) |
 
-Videos marked *(scheduled)* go public on the date shown (links work once they are live).
+Videos with a future date go public on that date (links work once they are live).
 
 ---
 
