@@ -78,20 +78,20 @@ Series: ⚛️ arXiv Research Briefs (Tuesday) • 🏗️ DevOps Blueprints (Th
 | 2026-11-27 | [Your Kubernetes Autoscaling Is Too Slow for Black Friday](https://youtu.be/jyr6BunBJF0) | [▶️](https://youtu.be/pjq74CW6uIw) |
 | 2026-11-28 | [Trust Your Docker Images: Digests, SBOMs and Signatures](https://youtu.be/4HmMqBhpmqs) | [▶️](https://youtu.be/k9Wm1mpt7F8) |
 | 2026-11-29 | [Coolify's Installer Wants Root. Here's What It Does.](https://youtu.be/bjVR4hOAv8s) | [▶️](https://youtu.be/OsdZ8G_YcPc) |
-| 2026-12-01 | [Can a Second AI Pick the Safest Command Before It Runs?](https://youtu.be/lFIa7BZvOhE) | [▶️](https://youtu.be/sxDVFNjnyns) |
+| 2026-12-01 | [Can a Second AI Pick the Safest Command Before It Runs?](https://youtu.be/NYSsve5rRzg) | [▶️](https://youtu.be/sxDVFNjnyns) |
 | 2026-12-03 | [84 Malicious npm Versions in 6 Minutes. No Token Was Stolen](https://youtu.be/SjzF_IYhOJs) | [▶️](https://youtu.be/8VJi49SRQpI) |
 | 2026-12-05 | [Docker Container Crashed? The 5-Step Runbook](https://youtu.be/-SbF9vwemm0) | [▶️](https://youtu.be/E4scLLhchHE) |
 | 2026-12-06 | [I Fed 5,000 Files to an AI Code Reviewer. It Read 9.](https://youtu.be/NG9cRvBpUGM) | [▶️](https://youtu.be/8GJm1ZWquhU) |
-| 2026-12-08 | [Flide: 9.5x Faster AI Decisions, But Only on Small Models](https://youtu.be/WHBsES0IUPk) | [▶️](https://youtu.be/BgKrHaV3xCM) |
-| 2026-12-10 | [Ingress NGINX Is Retired: Your Cluster Still Runs, Unpatched](https://youtu.be/Q5bdbQCMsRQ) | [▶️](https://youtu.be/l9L_SX0Qc_s) |
+| 2026-12-08 | [Flide: 9.5x Faster AI Decisions, But Only on Small Models](https://youtu.be/RKi_Q94r700) | [▶️](https://youtu.be/BgKrHaV3xCM) |
+| 2026-12-10 | [Ingress NGINX Is Retired: Your Cluster Still Runs, Unpatched](https://youtu.be/Oxm6ELxkCsM) | [▶️](https://youtu.be/l9L_SX0Qc_s) |
 | 2026-12-12 | [Docker Builds in CI: Fast Caches Without Leaking Secrets](https://youtu.be/fqcbKrjai5o) | [▶️](https://youtu.be/qp2PehmCytE) |
 | 2026-12-13 | [My AI Agent Clicks the Web With 88 Tokens, Not 1,051](https://youtu.be/EwCeOeDdop4) | [▶️](https://youtu.be/j4fa7-fZ_kc) |
-| 2026-12-15 | [This Robot AI Ignores 85% of Its Main Camera. 96% Success.](https://youtu.be/9UFpkq-R2xw) | [▶️](https://youtu.be/1tYI8c969h0) |
+| 2026-12-15 | [This Robot AI Ignores 85% of Its Main Camera. 96% Success.](https://youtu.be/z9IHVfaE9VU) | [▶️](https://youtu.be/1tYI8c969h0) |
 | 2026-12-17 | [Your Code Freeze Won't Stop Config Outages. Do This Instead](https://youtu.be/mhc37RbzCLU) | [▶️](https://youtu.be/-uM1cfTSN1s) |
 | 2026-12-19 | [When Docker Is the Wrong Tool: systemd, Podman and Incus](https://youtu.be/45i66tA_K7g) | [▶️](https://youtu.be/Qjqh3lsMNvI) |
 | 2026-12-20 | [This AI News Filter Judges Articles on 1,000 Characters](https://youtu.be/g5zbG3-axkE) | [▶️](https://youtu.be/2yIYusUCt7E) |
 | 2026-12-22 | [Don't Let the AI Solve the Puzzle. Let It Translate Instead](https://youtu.be/gxqjaS5XQO8) | [▶️](https://youtu.be/ZLqupn_TpzE) |
-| 2026-12-24 | [Christmas Eve On-Call: 6 Read-Only Checks Before You Log Off](https://youtu.be/-taDY72CpPw) | [▶️](https://youtu.be/8SmbY1trzNU) |
+| 2026-12-24 | [Christmas Eve On-Call: 6 Read-Only Checks Before You Log Off](https://youtu.be/xq1YZLkfkg0) | [▶️](https://youtu.be/8SmbY1trzNU) |
 | 2026-12-25 | [Byte Plays Scrooge: A Christmas Carol for Sysadmins](https://youtu.be/6rWztcd-7vc) | [▶️](https://youtu.be/dqrPZ6RUpBc) |
 | 2026-12-27 | [Christmas Homelab: What a Mini PC Really Draws at Idle](https://youtu.be/yWf_49pcAJA) | [▶️](https://youtu.be/tY7UBjxq1lE) |
 | 2026-12-29 | [You Can Dial an AI's Personality. The Dials Drag Each Other](https://youtu.be/pyiev1CGzSc) | [▶️](https://youtu.be/SCmtO_hggaE) |
