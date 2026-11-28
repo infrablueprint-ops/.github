@@ -79,6 +79,7 @@ Series: ⚛️ arXiv Research Briefs (Tuesday) • 🏗️ DevOps Blueprints (Th
 | 2026-11-28 | [Trust Your Docker Images: Digests, SBOMs and Signatures](https://youtu.be/4HmMqBhpmqs) | [▶️](https://youtu.be/k9Wm1mpt7F8) |
 | 2026-11-29 | [Coolify's Installer Wants Root. Here's What It Does.](https://youtu.be/bjVR4hOAv8s) | [▶️](https://youtu.be/OsdZ8G_YcPc) |
 | 2026-12-01 | [Can a Second AI Pick the Safest Command Before It Runs?](https://youtu.be/NYSsve5rRzg) | [▶️](https://youtu.be/sxDVFNjnyns) |
+| 2026-12-02 | [Cowrie Honeypot + Local AI: It Leaked Its Own Thoughts](https://youtu.be/SmH31YkNujA) | [▶️](https://youtu.be/AkTCwU5Ukmw) |
 | 2026-12-03 | [84 Malicious npm Versions in 6 Minutes. No Token Was Stolen](https://youtu.be/SjzF_IYhOJs) | [▶️](https://youtu.be/8VJi49SRQpI) |
 | 2026-12-05 | [Docker Container Crashed? The 5-Step Runbook](https://youtu.be/-SbF9vwemm0) | [▶️](https://youtu.be/E4scLLhchHE) |
 | 2026-12-06 | [I Fed 5,000 Files to an AI Code Reviewer. It Read 9.](https://youtu.be/NG9cRvBpUGM) | [▶️](https://youtu.be/8GJm1ZWquhU) |
